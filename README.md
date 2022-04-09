@@ -35,6 +35,10 @@ Pakage State Management pada flutter saat ini:
 
 8. Triple Pattern (Segmented State Pattern)
 
+## Screenshoot
+
+![alt text](https://github.com/adrz37/uas_191011401763/blob/main/SCREENSHOOT.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
